@@ -1,0 +1,6 @@
+@Coffee_Beans_Site_HostAddress = http://localhost:5118
+
+GET {{Coffee_Beans_Site_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
