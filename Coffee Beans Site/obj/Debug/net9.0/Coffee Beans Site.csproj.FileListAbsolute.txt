@@ -152,15 +152,7 @@ E:\C# projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\
 E:\C# projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.genruntimeconfig.cache
 E:\C# projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\ref\Coffee Beans Site.dll
 E:\C# projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\frontend\components.json
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.csproj.AssemblyReference.cache
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\rpswa.dswa.cache.json
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.GeneratedMSBuildEditorConfig.editorconfig
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.AssemblyInfoInputs.cache
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.AssemblyInfo.cs
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.csproj.CoreCompileInputs.cache
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.MvcApplicationPartsAssemblyInfo.cs
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.MvcApplicationPartsAssemblyInfo.cache
-E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.sourcelink.json
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\NuGet.config
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\appsettings.Development.json
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\appsettings.json
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\frontend\components.json
@@ -288,6 +280,15 @@ E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\ne
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.csproj.AssemblyReference.cache
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.AssemblyInfoInputs.cache
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.AssemblyInfo.cs
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.csproj.CoreCompileInputs.cache
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.MvcApplicationPartsAssemblyInfo.cs
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.MvcApplicationPartsAssemblyInfo.cache
+E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\Coffee Beans Site.sourcelink.json
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\rjimswa.dswa.cache.json
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 E:\C-Sharp projects practice\Coffee Beans Website\Coffee Beans Site\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
