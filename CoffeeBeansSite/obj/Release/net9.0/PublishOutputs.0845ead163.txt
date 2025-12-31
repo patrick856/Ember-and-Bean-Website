@@ -1,0 +1,55 @@
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Coffee Beans Site.exe
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\NuGet.config
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\NuGet.config
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\web.config
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\appsettings.Development.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\appsettings.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\frontend\components.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\frontend\package-lock.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\frontend\package.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\frontend\tsconfig.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\appsettings.Development.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\appsettings.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\Coffee Beans Site.deps.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\Coffee Beans Site.runtimeconfig.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\Coffee Beans Site.staticwebassets.endpoints.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\frontend\components.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\frontend\package-lock.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\frontend\package.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\out\frontend\tsconfig.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Coffee Beans Site.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Coffee Beans Site.runtimeconfig.json
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Coffee Beans Site.pdb
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\BCrypt.Net-Next.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.AspNetCore.OpenApi.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.EntityFrameworkCore.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Caching.Memory.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.DependencyInjection.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Logging.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Options.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.Extensions.Primitives.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.Abstractions.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.Logging.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.Protocols.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.IdentityModel.Tokens.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Microsoft.OpenApi.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Newtonsoft.Json.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Npgsql.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Stripe.net.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Swashbuckle.AspNetCore.Swagger.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\System.Configuration.ConfigurationManager.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\System.IdentityModel.Tokens.Jwt.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\System.Security.Cryptography.ProtectedData.dll
+E:\C-Sharp projects practice\Coffee Beans Website\CoffeeBeansSite\out\Coffee Beans Site.deps.json
